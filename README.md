@@ -49,9 +49,11 @@
 
 ## 🚀 Featured Projects
 
-🏥 **Care+ Healthcare Website**  
-💊 **1 Minute Medicine Delivery App**  
-📰 **React Blog Website**
+🧱 **Bricks Website**  
+A modern construction bricks company website with product showcase and blog system.
+
+✍️ **Blogging Backend**  
+Backend system for a blogging platform built with Node.js, Express and MongoDB.
 
 ---
 
