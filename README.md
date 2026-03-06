@@ -43,7 +43,7 @@
 
 ## 💻 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnujKumar1305&layout=compact&langs_count=8&theme=tokyonight)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AnujKumar1305&layout=compact&theme=tokyonight)
 
 ---
 
