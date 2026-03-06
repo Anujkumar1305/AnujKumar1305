@@ -2,7 +2,8 @@
 <h3 align="center">B.Tech CSE Student | MERN Stack Developer</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+Developer;MERN+Stack+Learner;Building+Care%2B+Healthcare+Platform">
+<img src="https://github-readme-stats.vercel.app/api?username=AnujKumar1305&show_icons=true&theme=tokyonight" height="180"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AnujKumar1305&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
 ---
