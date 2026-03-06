@@ -1,63 +1,101 @@
 <h1 align="center">Hi 👋, I'm Anuj Kumar</h1>
-<h3 align="center">B.Tech CSE Student | MERN Stack Developer</h3>
+
+<h3 align="center">🚀 B.Tech CSE Student | MERN Stack Developer | Building Real World Applications</h3>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AnujKumar1305&show_icons=true&theme=tokyonight" height="180"/>
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AnujKumar1305&layout=compact&theme=tokyonight" height="180"/>
+<img src="https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Developer;Full+Stack+Web+Developer;Open+Source+Learner;Tech+Enthusiast&center=true&width=500&height=45">
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
 🎓 B.Tech Computer Science Student  
-💻 Passionate about Web Development  
+💻 Passionate about **Full Stack Web Development**  
 🏥 Currently building **Care+ Healthcare Platform**  
-🌱 Learning **React, Node.js, MongoDB**  
-⚡ Love building real world applications  
+🚀 Love building **real world projects**  
+🌱 Currently learning **Advanced MERN Stack**  
 
 ---
 
 ## 🛠️ Tech Stack
 
-![HTML](https://img.shields.io/badge/HTML5-orange)
-![CSS](https://img.shields.io/badge/CSS3-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-![React](https://img.shields.io/badge/React-black)
-![NodeJS](https://img.shields.io/badge/Node.js-green)
-![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen)
-![Git](https://img.shields.io/badge/Git-red)
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,git,github,vscode"/>
+
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![Anuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnujKumar1305&show_icons=true&theme=tokyonight)
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnujKumar1305&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnujKumar1305&layout=compact&theme=tokyonight"/>
+
+</p>
 
 ---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnujKumar1305&theme=tokyonight)
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnujKumar1305&theme=tokyonight"/>
+
+</p>
 
 ---
 
-## 💻 Top Languages
+## 📈 Contribution Graph
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AnujKumar1305&layout=compact&theme=tokyonight)
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnujKumar1305&theme=tokyo-night"/>
+
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=AnujKumar1305&theme=tokyonight"/>
+
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-🧱 **Bricks Website**  
-A modern construction bricks company website with product showcase and blog system.
+### 🧱 Bricks Website
+Modern construction company website with product showcase and blogging system.
 
-✍️ **Blogging Backend**  
-Backend system for a blogging platform built with Node.js, Express and MongoDB.
+🔗 https://github.com/AnujKumar1305
+
+---
+
+### ✍️ Blogging Backend
+Backend API for blogging platform built with **Node.js, Express and MongoDB**
+
+🔗 https://github.com/AnujKumar1305
 
 ---
 
 ## 🌐 Connect With Me
 
-GitHub: https://github.com/AnujKumar1305
+<p align="center">
+
+<a href="https://github.com/AnujKumar1305">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+⭐ **If you like my projects consider giving a star!**
